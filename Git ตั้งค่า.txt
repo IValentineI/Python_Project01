@@ -1,0 +1,11 @@
+1.on local/git local
+ทำครั้งเดียวต่อ 1 Project
+-git config --global user.email "????"
+-git config --global user.name "????"
+-git init
+-git remote add origin https://github.com/IValentineI/Python_Project01.git
+
+2.on cloud/git repo
+-git add .
+-git commit -m "code v.1 :????
+-git push -u origin 
